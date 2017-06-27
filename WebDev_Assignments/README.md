@@ -5,3 +5,5 @@ Solution for Module 3: https://dxr27kejj.github.io/coursera-test/WebDev_Assignme
 
 
 Solution for Course 5 Assignment 1: https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/course5-assignment1/
+
+Solution for Course 5 Assignment 2: https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/course5-assignment2/
