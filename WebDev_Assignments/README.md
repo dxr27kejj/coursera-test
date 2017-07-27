@@ -6,9 +6,9 @@ This repository contains some of my solution code for the [HTML, CSS, and Javasc
 
 ### [Assignments in Course 4](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments)
 
-[Solution for Course 4 Assignment 2](https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/module2-solution/)
+[Solution for Course 4 Assignment 2](https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/course4-assignment2/)
 
-[Solution for Course 4 Assignment 3](https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/module3-solution/)
+[Solution for Course 4 Assignment 3](https://dxr27kejj.github.io/coursera-test/WebDev_Assignments/course4-assignment3/)
 
 
 ### [Assignments in Course 5](https://github.com/jhu-ep-coursera/fullstack-course5/tree/master/assignments)
